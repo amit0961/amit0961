@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saha-amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahaamit97)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sahaamit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahaamit97)
 
 ---
 
