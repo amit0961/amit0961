@@ -36,7 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sahaamit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahaamit97)
 
 ---
+<div align="right">
 <img  src="https://komarev.com/ghpvc/?username=amit0961&style=flat-square&color=blue" alt=""/>
+  </div>
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
 
