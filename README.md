@@ -13,9 +13,9 @@
   </a>
 </div>
 <div  align="center">
-  <img  src="https://komarev.com/ghpvc/?username=amit0961&style=flat-square&color=blue" alt=""/>
+  
 <h1>
-  HI
+  Hlw
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
@@ -36,6 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sahaamit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahaamit97)
 
 ---
+<img  src="https://komarev.com/ghpvc/?username=amit0961&style=flat-square&color=blue" alt=""/>
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
 
