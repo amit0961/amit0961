@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 <div align="right">
 <img  src="https://komarev.com/ghpvc/?username=amit0961&style=flat-square&color=blue" alt=""/>
-  </div>
+  </div> 
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
 
