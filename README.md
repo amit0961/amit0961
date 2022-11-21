@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/sahaamit97">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=" LinkedIn Badge"/>
   </a>
   <a href="https://about.me/amit-saha">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Google Badge"/>
